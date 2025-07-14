@@ -1,0 +1,2 @@
+Modules/ImageModules/ImageProcess/model/DefectSAM.pt filter=lfs diff=lfs merge=lfs -text
+Modules/ImageModules/ImageProcess/model/FruitSAM.pt filter=lfs diff=lfs merge=lfs -text
